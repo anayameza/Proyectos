@@ -1,0 +1,43 @@
+.useri{
+    border-style: solid;
+    padding: 10px;
+    border-width: thin;
+    width: 210px;
+  }
+  
+.contacto_EatBooking{
+  background-color: rgb(129, 131, 138);
+}
+
+
+
+.form-control1{
+  min-width: 450px; 
+  max-width: 500px; 
+  min-height: 150px; 
+  max-height: 200px;
+}
+
+@media (max-width: 800px){
+  .form-control1{
+    min-width: 350px; 
+    max-width: 350px; 
+    min-height: 150px; 
+    max-height: 200px;
+  }
+}
+
+@media (max-width: 600px){
+  .form-control1{
+    min-width: 370px; 
+  max-width: 370px; 
+  }
+}
+
+@media (max-width: 400px){
+  .form-control1{
+    min-width: 320px; 
+  }
+}
+
+
